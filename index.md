@@ -9,3 +9,12 @@ This commit includes the heading parameters
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 This includes the image of a Yaktocat
+
+```python
+def printme():
+  myVar = "Hello, world!";
+print(printme())
+```
+
+
+
